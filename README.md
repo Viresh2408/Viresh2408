@@ -14,3 +14,8 @@ I'm a computer science student passionate about building efficient backend syste
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viresh2408&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+# ⚡ Fun Fact
+
+> I don’t just write code — I engineer systems that scale 🚀
+
