@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Viresh Kumbhar</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Engineering+Student+%40+APSIT;Backend+%26+Full-Stack+Developer;Competitive+Programmer;Building+Scalable+Systems" alt="Typing SVG" />
+
+Building scalable systems and solving complex problems, one commit at a time.
+
+![Profile Views](https://komarev.com/ghpvc/?username=DarshK25&color=blueviolet&style=flat)
 # 💫 About Me:
 I'm a computer science student passionate about building efficient backend systems and crafting full-stack applications. My days usually involve debugging code, optimizing algorithms on LeetCode, and experimenting with new technologies to turn ideas into working products.<br><br>Currently working on:<br><br>Strengthening my foundation in data structures and algorithms <br>Developing full-stack applications using the MERN stack<br>Exploring AI-powered automation and intelligent systems<br>Always learning: System design, database optimization, clean code principles, and modern development practices.<br><br>
 
