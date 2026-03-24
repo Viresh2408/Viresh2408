@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viresh Kumbhar</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Engineering+Student+%40+APSIT;Backend+%26+Full-Stack+Developer;Competitive+Programmer;Building+Scalable+Systems" alt="Typing SVG" />
-
-Building scalable systems and solving complex problems, one commit at a time.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=700&lines=Computer+Engineering+Student+%40+APSIT;Full-Stack+%26+Backend+Developer;AI%2FML+%26+System+Design+Enthusiast;Building+Scalable+Real-World+Applications" alt="Typing SVG" />
+From AI-powered platforms to scalable backend systems — I build solutions that perform, scale, and deliver impact.
 
 
 # 💫 About Me:
